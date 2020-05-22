@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>微信公众号授权获取用户信息测试</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <script src="./../static/jquery-3.3.1.min.js" th:src="@{/jquery-3.3.1.min.js}"></script>
+    <script src="./../static/jquery.params.js" th:src="@{/jquery.params.js}"></script>
+</head>
+<body>
+
+code作为换取access_token的票据，每次用户授权带上的code将不一样，code只能使用一次，5分钟未被使用自动过期:
+<p id="code"></p>
+用户授权自定义数据:
+<p id="state"></p>
+用户刷新access_token:
+<p id="accessToken"></p>
+用户唯一标识，请注意，在未关注公众号时，用户访问公众号的网页，也会产生一个用户和公众号唯一的OpenID:
+<p id="openid"></p>
+用户信息:
+<p id="userInfo"></p>
+
+
+<script>
+
+    var code =  $.query.get("code");
+    var state = $.query.get("state");
+    var access_token = '';
+    var openid = '';
+
+    console.log("code = " + code + " state = " + state)
+
+    document.getElementById("code").innerHTML = code;
+    document.getElementById("state").innerHTML = state;
+
+    getAccessTokenWithCode()
+
+    //根据code获取access_token和openid
+    function getAccessTokenWithCode() {
+
+        $.ajax({
+            url: '/wxzhongzhonghao/wx/getAccessTokenWithCode',
+            type: 'GET',
+            data: {"code":code},
+            success: function (res) {
+
+                console.log('获取成功: ' + JSON.stringify(res))
+
+                this.access_token = JSON.parse(res).access_token;
+                this.openid = JSON.parse(res).openid;
+
+                document.getElementById("accessToken").innerHTML = this.access_token;
+                document.getElementById("openid").innerHTML = this.openid;
+
+                //获取用户信息
+                getUserInfo(this.access_token, this.openid)
+            },
+            error: function (err) {
+                console.log('获取失败: ' + JSON.stringify(err))
+            }
+        })
+
+        //根据access_token和openid获取用户信息
+        function getUserInfo(access_token, openid) {
+
+            // this.access_token = "33_9Jg_5MDPML6jCOWxScZ9cG_m2_aJIP5CQyx5Buk7sTXi9QfEPBKqsY3YfbyCIYP07K1lPVhmUF4JzWZK775QoGanRSwKW69NfUrfzrmEbmg"
+            // this.openid = 'otI3VvxGDuqfXRBYiUYbdVS7fJlw'
+
+            $.ajax({
+                url: '/wxzhongzhonghao/wx/getUserInfo',
+                type: 'GET',
+                data: {"access_token":access_token, "openid": openid},
+                success: function (res) {
+                    console.log('获取用户信息成功: ' + JSON.stringify(res))
+                    document.getElementById("userInfo").innerHTML = res
+                },
+                error: function (err) {
+                    console.log('获取用户信息失败: ' + JSON.stringify(err))
+                }
+            })
+        }
+    }
+
+</script>
+
+</body>
+</html>

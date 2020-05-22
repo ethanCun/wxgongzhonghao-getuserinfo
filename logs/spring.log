@@ -1,0 +1,1138 @@
+2020-05-22 09:27:04.762  INFO 26010 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26010 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 09:27:04.764  INFO 26010 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 09:27:05.403  INFO 26010 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 09:27:05.409  INFO 26010 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 09:27:05.410  INFO 26010 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 09:27:05.458  INFO 26010 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 09:27:05.458  INFO 26010 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 664 ms
+2020-05-22 09:27:05.575  INFO 26010 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:27:05.713  INFO 26010 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 09:27:05.721  INFO 26010 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.251 seconds (JVM running for 1.873)
+2020-05-22 09:28:41.373  INFO 26010 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 09:28:41.373  INFO 26010 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 09:28:41.377  INFO 26010 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 09:28:41.758  INFO 26010 --- [http-nio-8080-exec-1] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: 
+2020-05-22 09:29:09.298  INFO 26010 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:29:21.703  INFO 26030 --- [main] c.e.g.GongzhonghaoApplicationTests       : Starting GongzhonghaoApplicationTests on CundeiMac.local with PID 26030 (started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 09:29:21.705  INFO 26030 --- [main] c.e.g.GongzhonghaoApplicationTests       : No active profile set, falling back to default profiles: default
+2020-05-22 09:29:22.742  INFO 26030 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:29:23.015  INFO 26030 --- [main] c.e.g.GongzhonghaoApplicationTests       : Started GongzhonghaoApplicationTests in 1.643 seconds (JVM running for 2.617)
+2020-05-22 09:29:23.231  INFO 26030 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:34:36.904  INFO 26062 --- [main] c.e.g.GongzhonghaoApplicationTests       : Starting GongzhonghaoApplicationTests on CundeiMac.local with PID 26062 (started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 09:34:36.906  INFO 26062 --- [main] c.e.g.GongzhonghaoApplicationTests       : No active profile set, falling back to default profiles: default
+2020-05-22 09:34:37.932  INFO 26062 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:34:38.186  INFO 26062 --- [main] c.e.g.GongzhonghaoApplicationTests       : Started GongzhonghaoApplicationTests in 1.62 seconds (JVM running for 2.541)
+2020-05-22 09:34:38.393  INFO 26062 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:44:08.617  INFO 26085 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26085 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 09:44:08.619  INFO 26085 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 09:44:09.435  INFO 26085 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 09:44:09.441  INFO 26085 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 09:44:09.442  INFO 26085 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 09:44:09.491  INFO 26085 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 09:44:09.491  INFO 26085 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 818 ms
+2020-05-22 09:44:09.620  INFO 26085 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:44:09.802  INFO 26085 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 09:44:09.811  INFO 26085 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.512 seconds (JVM running for 2.324)
+2020-05-22 09:44:28.106  INFO 26085 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 09:44:28.107  INFO 26085 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 09:44:28.110  INFO 26085 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 09:44:28.559  INFO 26085 --- [http-nio-8080-exec-1] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: 
+2020-05-22 09:52:51.683  INFO 26085 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:52:58.142  INFO 26133 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26133 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 09:52:58.144  INFO 26133 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 09:52:59.033  INFO 26133 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 09:52:59.045  INFO 26133 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 09:52:59.047  INFO 26133 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 09:52:59.298  INFO 26133 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 09:52:59.298  INFO 26133 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1126 ms
+2020-05-22 09:52:59.469  INFO 26133 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:52:59.690  INFO 26133 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 09:52:59.698  INFO 26133 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.828 seconds (JVM running for 3.2)
+2020-05-22 09:53:03.757  INFO 26133 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 09:53:03.757  INFO 26133 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 09:53:03.762  INFO 26133 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-05-22 09:53:04.226  INFO 26133 --- [http-nio-8080-exec-1] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: 
+2020-05-22 09:54:11.994  INFO 26133 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:54:16.766  INFO 26145 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26145 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 09:54:16.774  INFO 26145 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 09:54:17.646  INFO 26145 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 09:54:17.656  INFO 26145 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 09:54:17.657  INFO 26145 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 09:54:17.771  INFO 26145 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 09:54:17.771  INFO 26145 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 943 ms
+2020-05-22 09:54:17.988  INFO 26145 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:54:18.141  INFO 26145 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 09:54:18.149  INFO 26145 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.741 seconds (JVM running for 2.431)
+2020-05-22 09:54:22.859  INFO 26145 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 09:54:22.860  INFO 26145 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 09:54:22.864  INFO 26145 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 09:54:23.245  INFO 26145 --- [http-nio-8080-exec-1] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: Error request, response status: 404
+2020-05-22 09:54:43.547  INFO 26145 --- [http-nio-8080-exec-3] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: Error request, response status: 404
+2020-05-22 09:54:53.443  INFO 26145 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:54:59.585  INFO 26157 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26157 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 09:54:59.588  INFO 26157 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 09:55:00.310  INFO 26157 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 09:55:00.317  INFO 26157 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 09:55:00.317  INFO 26157 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 09:55:00.390  INFO 26157 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 09:55:00.391  INFO 26157 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 767 ms
+2020-05-22 09:55:00.527  INFO 26157 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:55:00.672  INFO 26157 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 09:55:00.682  INFO 26157 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.371 seconds (JVM running for 2.573)
+2020-05-22 09:55:02.099  INFO 26157 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 09:55:02.099  INFO 26157 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 09:55:02.104  INFO 26157 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-05-22 09:55:02.343 ERROR 26157 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is cn.hutool.core.exceptions.UtilException: URISyntaxException: Illegal character in fragment at index 177: https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxe7aa1abba3445c85&redirect_uri=https://myyj.xyz:8888/mmall-admin/#/&response_type=code&scope=snsapi_userinfo&state=czy#wechat_redirect] with root cause
+
+java.net.URISyntaxException: Illegal character in fragment at index 177: https://open.weixin.qq.com/connect/oauth2/authorize?appid=wxe7aa1abba3445c85&redirect_uri=https://myyj.xyz:8888/mmall-admin/#/&response_type=code&scope=snsapi_userinfo&state=czy#wechat_redirect
+	at java.net.URI$Parser.fail(URI.java:2847) ~[na:1.8.0_251]
+	at java.net.URI$Parser.checkChars(URI.java:3020) ~[na:1.8.0_251]
+	at java.net.URI$Parser.parse(URI.java:3066) ~[na:1.8.0_251]
+	at java.net.URI.<init>(URI.java:588) ~[na:1.8.0_251]
+	at cn.hutool.core.util.URLUtil.toURI(URLUtil.java:528) ~[hutool-all-5.0.2.jar:na]
+	at cn.hutool.core.util.URLUtil.toURI(URLUtil.java:500) ~[hutool-all-5.0.2.jar:na]
+	at cn.hutool.core.util.URLUtil.toURI(URLUtil.java:483) ~[hutool-all-5.0.2.jar:na]
+	at cn.hutool.http.cookie.GlobalCookieManager.getURI(GlobalCookieManager.java:106) ~[hutool-all-5.0.2.jar:na]
+	at cn.hutool.http.cookie.GlobalCookieManager.add(GlobalCookieManager.java:72) ~[hutool-all-5.0.2.jar:na]
+	at cn.hutool.http.HttpRequest.initConnecton(HttpRequest.java:991) ~[hutool-all-5.0.2.jar:na]
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:932) ~[hutool-all-5.0.2.jar:na]
+	at cn.hutool.http.HttpRequest.execute(HttpRequest.java:901) ~[hutool-all-5.0.2.jar:na]
+	at cn.hutool.http.HttpUtil.get(HttpUtil.java:113) ~[hutool-all-5.0.2.jar:na]
+	at cn.hutool.http.HttpUtil.get(HttpUtil.java:101) ~[hutool-all-5.0.2.jar:na]
+	at com.example.gongzhonghao.web.WXController.wxgongzhonghao(WXController.java:45) ~[classes/:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:1.8.0_251]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[na:1.8.0_251]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[na:1.8.0_251]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[na:1.8.0_251]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_251]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_251]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_251]
+
+2020-05-22 09:59:07.906  INFO 26157 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:59:13.970  INFO 26173 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26173 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 09:59:13.973  INFO 26173 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 09:59:14.737  INFO 26173 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 09:59:14.743  INFO 26173 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 09:59:14.743  INFO 26173 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 09:59:14.815  INFO 26173 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 09:59:14.815  INFO 26173 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 802 ms
+2020-05-22 09:59:14.951  INFO 26173 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 09:59:15.097  INFO 26173 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 09:59:15.113  INFO 26173 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.438 seconds (JVM running for 2.774)
+2020-05-22 09:59:20.340  INFO 26173 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 09:59:20.341  INFO 26173 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 09:59:20.345  INFO 26173 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 09:59:21.305  INFO 26173 --- [http-nio-8080-exec-1] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: 
+2020-05-22 10:01:44.861  INFO 26173 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:01:48.804  INFO 26178 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26178 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:01:48.807  INFO 26178 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:01:49.616  INFO 26178 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:01:49.622  INFO 26178 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:01:49.623  INFO 26178 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:01:49.670  INFO 26178 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:01:49.670  INFO 26178 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 821 ms
+2020-05-22 10:01:49.801  INFO 26178 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:01:49.960  INFO 26178 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:01:49.970  INFO 26178 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.513 seconds (JVM running for 2.315)
+2020-05-22 10:01:52.794  INFO 26178 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:01:52.795  INFO 26178 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:01:52.801  INFO 26178 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-05-22 10:01:53.222  INFO 26178 --- [http-nio-8080-exec-1] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: 
+2020-05-22 10:02:37.917  INFO 26178 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:02:43.834  INFO 26193 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26193 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:02:43.837  INFO 26193 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:02:44.655  INFO 26193 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:02:44.666  INFO 26193 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:02:44.666  INFO 26193 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:02:44.750  INFO 26193 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:02:44.751  INFO 26193 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 885 ms
+2020-05-22 10:02:44.948  INFO 26193 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:02:45.118  INFO 26193 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:02:45.127  INFO 26193 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.613 seconds (JVM running for 2.377)
+2020-05-22 10:02:52.575  INFO 26193 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:02:52.575  INFO 26193 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:02:52.580  INFO 26193 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 10:02:53.130  INFO 26193 --- [http-nio-8080-exec-1] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: 
+2020-05-22 10:07:14.025  INFO 26193 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:07:20.403  INFO 26207 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26207 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:07:20.406  INFO 26207 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:07:21.091  INFO 26207 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:07:21.135  INFO 26207 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:07:21.136  INFO 26207 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:07:21.212  INFO 26207 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:07:21.212  INFO 26207 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 773 ms
+2020-05-22 10:07:21.346  INFO 26207 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:07:21.529  INFO 26207 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:07:21.550  INFO 26207 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.423 seconds (JVM running for 2.658)
+2020-05-22 10:07:25.301  INFO 26207 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:07:25.301  INFO 26207 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:07:25.305  INFO 26207 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 10:07:25.797  INFO 26207 --- [http-nio-8080-exec-1] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: 
+2020-05-22 10:08:16.867  INFO 26207 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:08:22.340  INFO 26215 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26215 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:08:22.342  INFO 26215 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:08:23.076  INFO 26215 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:08:23.084  INFO 26215 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:08:23.084  INFO 26215 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:08:23.295  INFO 26215 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:08:23.296  INFO 26215 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 920 ms
+2020-05-22 10:08:23.421  INFO 26215 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:08:23.617  INFO 26215 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:08:23.632  INFO 26215 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.602 seconds (JVM running for 2.34)
+2020-05-22 10:08:27.819  INFO 26215 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:08:27.820  INFO 26215 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:08:27.828  INFO 26215 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2020-05-22 10:08:28.318  INFO 26215 --- [http-nio-8080-exec-1] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: 
+2020-05-22 10:10:35.016  INFO 26215 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:10:39.371  INFO 26222 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26222 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:10:39.375  INFO 26222 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:10:40.192  INFO 26222 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:10:40.198  INFO 26222 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:10:40.199  INFO 26222 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:10:40.248  INFO 26222 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:10:40.248  INFO 26222 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 831 ms
+2020-05-22 10:10:40.371  INFO 26222 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:10:40.517  INFO 26222 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:10:40.524  INFO 26222 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.465 seconds (JVM running for 2.22)
+2020-05-22 10:10:55.879  INFO 26222 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:10:55.880  INFO 26222 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:10:55.885  INFO 26222 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-05-22 10:10:56.288  INFO 26222 --- [http-nio-8080-exec-1] c.example.gongzhonghao.web.WXController  : 用户授权返回信息: 
+2020-05-22 10:11:51.350  INFO 26222 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:12:44.365  INFO 26230 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26230 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:12:44.374  INFO 26230 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:12:45.207  INFO 26230 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:12:45.215  INFO 26230 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:12:45.216  INFO 26230 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:12:45.276  INFO 26230 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:12:45.277  INFO 26230 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 842 ms
+2020-05-22 10:12:45.404  INFO 26230 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:12:45.551  INFO 26230 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:12:45.561  INFO 26230 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.682 seconds (JVM running for 2.532)
+2020-05-22 10:12:49.816  INFO 26230 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:12:49.817  INFO 26230 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:12:49.820  INFO 26230 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 10:13:57.072  INFO 26230 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:14:01.189  INFO 26234 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26234 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:14:01.191  INFO 26234 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:14:02.202  INFO 26234 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:14:02.208  INFO 26234 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:14:02.209  INFO 26234 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:14:02.254  INFO 26234 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:14:02.254  INFO 26234 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1018 ms
+2020-05-22 10:14:02.376  INFO 26234 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:14:02.528  INFO 26234 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:14:02.536  INFO 26234 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.658 seconds (JVM running for 2.228)
+2020-05-22 10:14:05.490  INFO 26234 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:14:05.490  INFO 26234 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:14:05.496  INFO 26234 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-05-22 10:14:27.891  INFO 26234 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:14:31.817  INFO 26237 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26237 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:14:31.820  INFO 26237 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:14:32.650  INFO 26237 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:14:32.656  INFO 26237 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:14:32.656  INFO 26237 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:14:32.704  INFO 26237 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:14:32.704  INFO 26237 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 846 ms
+2020-05-22 10:14:32.823  INFO 26237 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:14:32.958  INFO 26237 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:14:32.966  INFO 26237 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.46 seconds (JVM running for 1.965)
+2020-05-22 10:14:57.129  INFO 26237 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:14:57.130  INFO 26237 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:14:57.136  INFO 26237 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-05-22 10:15:14.730  INFO 26237 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:15:19.480  INFO 26239 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26239 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:15:19.486  INFO 26239 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:15:20.385  INFO 26239 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:15:20.391  INFO 26239 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:15:20.392  INFO 26239 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:15:20.436  INFO 26239 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:15:20.437  INFO 26239 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 766 ms
+2020-05-22 10:15:20.545  INFO 26239 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:15:20.721  INFO 26239 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:15:20.729  INFO 26239 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.635 seconds (JVM running for 2.404)
+2020-05-22 10:15:28.165  INFO 26239 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:15:28.165  INFO 26239 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:15:28.169  INFO 26239 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 10:17:17.881  INFO 26239 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:17:22.440  INFO 26243 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26243 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:17:22.447  INFO 26243 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:17:23.250  INFO 26243 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:17:23.256  INFO 26243 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:17:23.256  INFO 26243 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:17:23.301  INFO 26243 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:17:23.301  INFO 26243 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 811 ms
+2020-05-22 10:17:23.410  INFO 26243 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:17:23.548  INFO 26243 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:17:23.556  INFO 26243 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.414 seconds (JVM running for 2.157)
+2020-05-22 10:17:34.104  INFO 26243 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:17:34.105  INFO 26243 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:17:34.108  INFO 26243 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 10:17:34.138 ERROR 26243 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Circular view path [index]: would dispatch back to the current handler URL [/index] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)] with root cause
+
+javax.servlet.ServletException: Circular view path [index]: would dispatch back to the current handler URL [/index] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)
+	at org.springframework.web.servlet.view.InternalResourceView.prepareForRendering(InternalResourceView.java:210) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:148) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_251]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_251]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_251]
+
+2020-05-22 10:17:48.582  INFO 26243 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:17:52.645  INFO 26249 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26249 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:17:52.647  INFO 26249 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:17:53.518  INFO 26249 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:17:53.525  INFO 26249 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:17:53.525  INFO 26249 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:17:53.575  INFO 26249 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:17:53.575  INFO 26249 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 892 ms
+2020-05-22 10:17:53.698  INFO 26249 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:17:53.851  INFO 26249 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:17:53.859  INFO 26249 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.506 seconds (JVM running for 2.049)
+2020-05-22 10:17:57.670  INFO 26249 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:17:57.670  INFO 26249 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:17:57.675  INFO 26249 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 10:17:57.702 ERROR 26249 --- [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/].[dispatcherServlet]    : Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Circular view path [index]: would dispatch back to the current handler URL [/index] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)] with root cause
+
+javax.servlet.ServletException: Circular view path [index]: would dispatch back to the current handler URL [/index] again. Check your ViewResolver setup! (Hint: This may be the result of an unspecified view, due to default view name generation.)
+	at org.springframework.web.servlet.view.InternalResourceView.prepareForRendering(InternalResourceView.java:210) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.view.InternalResourceView.renderMergedOutputModel(InternalResourceView.java:148) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:316) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1373) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:1118) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1057) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883) ~[spring-webmvc-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53) ~[tomcat-embed-websocket-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119) ~[spring-web-5.2.6.RELEASE.jar:5.2.6.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202) ~[tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [na:1.8.0_251]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [na:1.8.0_251]
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61) [tomcat-embed-core-9.0.35.jar:9.0.35]
+	at java.lang.Thread.run(Thread.java:748) [na:1.8.0_251]
+
+2020-05-22 10:18:28.547  INFO 26249 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:18:36.685  INFO 26256 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26256 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:18:36.688  INFO 26256 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:18:37.980  INFO 26256 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:18:37.991  INFO 26256 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:18:37.991  INFO 26256 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:18:38.064  INFO 26256 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:18:38.065  INFO 26256 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1330 ms
+2020-05-22 10:18:38.190  INFO 26256 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:18:38.248  INFO 26256 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:18:38.487  INFO 26256 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:18:38.495  INFO 26256 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.104 seconds (JVM running for 2.692)
+2020-05-22 10:19:11.191  INFO 26256 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:19:11.191  INFO 26256 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:19:11.195  INFO 26256 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 10:21:18.978  INFO 26256 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:21:27.365  INFO 26290 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26290 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:21:27.367  INFO 26290 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:21:28.402  INFO 26290 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:21:28.409  INFO 26290 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:21:28.409  INFO 26290 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:21:28.499  INFO 26290 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:21:28.500  INFO 26290 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1082 ms
+2020-05-22 10:21:28.624  INFO 26290 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:21:28.686  INFO 26290 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:21:28.787  INFO 26290 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:21:28.795  INFO 26290 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.823 seconds (JVM running for 2.639)
+2020-05-22 10:21:32.239  INFO 26290 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:21:32.240  INFO 26290 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:21:32.243  INFO 26290 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 10:21:46.832  INFO 26290 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:21:50.922  INFO 26294 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26294 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:21:50.924  INFO 26294 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:21:51.980  INFO 26294 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:21:51.988  INFO 26294 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:21:51.989  INFO 26294 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:21:52.072  INFO 26294 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:21:52.074  INFO 26294 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1121 ms
+2020-05-22 10:21:52.330  INFO 26294 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:21:52.401  INFO 26294 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:21:52.541  INFO 26294 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:21:52.551  INFO 26294 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.916 seconds (JVM running for 2.58)
+2020-05-22 10:21:58.381  INFO 26294 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:21:58.381  INFO 26294 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:21:58.386  INFO 26294 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-05-22 10:22:50.376  INFO 26294 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:22:54.592  INFO 26305 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26305 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:22:54.594  INFO 26305 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:22:55.565  INFO 26305 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:22:55.572  INFO 26305 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:22:55.573  INFO 26305 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:22:55.637  INFO 26305 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:22:55.637  INFO 26305 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1006 ms
+2020-05-22 10:22:55.775  INFO 26305 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:22:55.853  INFO 26305 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:22:55.966  INFO 26305 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:22:55.974  INFO 26305 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.653 seconds (JVM running for 2.262)
+2020-05-22 10:22:57.177  INFO 26305 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:22:57.177  INFO 26305 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:22:57.184  INFO 26305 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-05-22 10:25:23.738  INFO 26305 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:25:29.935  INFO 26317 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26317 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:25:29.938  INFO 26317 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:25:30.881  INFO 26317 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:25:30.889  INFO 26317 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:25:30.889  INFO 26317 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:25:31.246  INFO 26317 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:25:31.246  INFO 26317 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1275 ms
+2020-05-22 10:25:31.416  INFO 26317 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:25:31.496  INFO 26317 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:25:31.634  INFO 26317 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:25:31.643  INFO 26317 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.282 seconds (JVM running for 3.894)
+2020-05-22 10:25:46.561  INFO 26317 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:25:49.285  INFO 26323 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26323 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:25:49.289  INFO 26323 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:25:50.239  INFO 26323 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:25:50.246  INFO 26323 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:25:50.246  INFO 26323 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:25:50.307  INFO 26323 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:25:50.308  INFO 26323 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 974 ms
+2020-05-22 10:25:50.451  INFO 26323 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:25:50.519  INFO 26323 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:25:50.640  INFO 26323 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:25:50.649  INFO 26323 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.726 seconds (JVM running for 2.441)
+2020-05-22 10:25:56.921  INFO 26323 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:25:56.922  INFO 26323 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:25:56.929  INFO 26323 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-05-22 10:26:52.168  INFO 26323 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:26:57.446  INFO 26328 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26328 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:26:57.448  INFO 26328 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:26:58.236  INFO 26328 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:26:58.252  INFO 26328 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:26:58.252  INFO 26328 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:26:58.367  INFO 26328 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:26:58.367  INFO 26328 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 890 ms
+2020-05-22 10:26:58.495  INFO 26328 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:26:58.556  INFO 26328 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:26:58.694  INFO 26328 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:26:58.709  INFO 26328 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.551 seconds (JVM running for 2.36)
+2020-05-22 10:27:31.718  INFO 26328 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:27:31.718  INFO 26328 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:27:31.722  INFO 26328 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 10:28:21.777  INFO 26328 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:28:28.125  INFO 26339 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26339 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:28:28.127  INFO 26339 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:28:28.924  INFO 26339 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:28:28.934  INFO 26339 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:28:28.935  INFO 26339 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:28:29.013  INFO 26339 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:28:29.013  INFO 26339 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 855 ms
+2020-05-22 10:28:29.149  INFO 26339 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:28:29.209  INFO 26339 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:28:29.321  INFO 26339 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:28:29.330  INFO 26339 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.484 seconds (JVM running for 2.771)
+2020-05-22 10:28:34.741  INFO 26339 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:28:34.741  INFO 26339 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:28:34.748  INFO 26339 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-05-22 10:29:18.073  INFO 26339 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:29:26.506  INFO 26347 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26347 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:29:26.511  INFO 26347 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:29:27.293  INFO 26347 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:29:27.300  INFO 26347 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:29:27.300  INFO 26347 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:29:27.402  INFO 26347 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:29:27.402  INFO 26347 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 857 ms
+2020-05-22 10:29:27.625  INFO 26347 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:29:27.678  INFO 26347 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:29:27.814  INFO 26347 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:29:27.825  INFO 26347 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.628 seconds (JVM running for 2.944)
+2020-05-22 10:29:34.114  INFO 26347 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:29:34.115  INFO 26347 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:29:34.120  INFO 26347 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-05-22 10:30:14.926  INFO 26347 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:30:23.175  INFO 26351 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26351 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:30:23.179  INFO 26351 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:30:24.005  INFO 26351 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:30:24.014  INFO 26351 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:30:24.014  INFO 26351 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:30:24.101  INFO 26351 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:30:24.102  INFO 26351 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 894 ms
+2020-05-22 10:30:24.234  INFO 26351 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:30:24.285  INFO 26351 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:30:24.421  INFO 26351 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:30:24.433  INFO 26351 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.547 seconds (JVM running for 2.808)
+2020-05-22 10:30:28.986  INFO 26351 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:30:28.986  INFO 26351 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:30:28.990  INFO 26351 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 10:31:35.502  INFO 26351 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:33:03.171  INFO 26370 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26370 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:33:03.191  INFO 26370 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:33:04.822  INFO 26370 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:33:04.857  INFO 26370 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:33:04.858  INFO 26370 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:33:05.033  INFO 26370 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:33:05.033  INFO 26370 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1807 ms
+2020-05-22 10:33:05.210  INFO 26370 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:33:05.297  INFO 26370 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:33:05.680  INFO 26370 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:33:05.689  INFO 26370 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 3.832 seconds (JVM running for 5.999)
+2020-05-22 10:33:21.410  INFO 26370 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:33:21.423  INFO 26370 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:33:21.526  INFO 26370 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 48 ms
+2020-05-22 10:33:28.874  INFO 26370 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:33:35.307  INFO 26380 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26380 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:33:35.310  INFO 26380 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:33:36.645  INFO 26380 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:33:36.658  INFO 26380 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:33:36.658  INFO 26380 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:33:36.917  INFO 26380 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:33:36.919  INFO 26380 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1567 ms
+2020-05-22 10:33:37.091  INFO 26380 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:33:37.164  INFO 26380 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:33:37.286  INFO 26380 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:33:37.297  INFO 26380 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.407 seconds (JVM running for 3.529)
+2020-05-22 10:33:42.027  INFO 26380 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:33:42.028  INFO 26380 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:33:42.033  INFO 26380 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+2020-05-22 10:36:24.095  INFO 26380 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:36:32.811  INFO 26406 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26406 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:36:32.813  INFO 26406 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:36:33.667  INFO 26406 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:36:33.674  INFO 26406 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:36:33.675  INFO 26406 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:36:33.756  INFO 26406 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:36:33.756  INFO 26406 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 914 ms
+2020-05-22 10:36:33.922  INFO 26406 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:36:33.998  INFO 26406 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:36:34.158  INFO 26406 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:36:34.168  INFO 26406 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.635 seconds (JVM running for 3.539)
+2020-05-22 10:37:52.939  INFO 26406 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:37:59.406  INFO 26410 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26410 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:37:59.408  INFO 26410 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:38:00.061  INFO 26410 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:38:00.068  INFO 26410 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:38:00.068  INFO 26410 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:38:00.157  INFO 26410 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:38:00.157  INFO 26410 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 720 ms
+2020-05-22 10:38:00.337  INFO 26410 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:38:00.397  INFO 26410 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:38:00.502  INFO 26410 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:38:00.514  INFO 26410 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.39 seconds (JVM running for 2.585)
+2020-05-22 10:38:15.369  INFO 26410 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:38:15.369  INFO 26410 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:38:15.373  INFO 26410 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 10:45:17.327  INFO 26410 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:45:23.635  INFO 26436 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26436 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:45:23.637  INFO 26436 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:45:24.459  INFO 26436 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:45:24.466  INFO 26436 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:45:24.467  INFO 26436 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:45:24.540  INFO 26436 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:45:24.540  INFO 26436 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 873 ms
+2020-05-22 10:45:24.767  INFO 26436 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:45:24.825  INFO 26436 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:45:24.942  INFO 26436 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:45:24.958  INFO 26436 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.672 seconds (JVM running for 2.888)
+2020-05-22 10:45:53.517  INFO 26436 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:45:53.547  INFO 26436 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:45:53.635  INFO 26436 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 10:48:49.930  INFO 26436 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:48:56.888  INFO 26445 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26445 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:48:56.890  INFO 26445 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:48:57.777  INFO 26445 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:48:57.785  INFO 26445 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:48:57.786  INFO 26445 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:48:58.219  INFO 26445 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:48:58.219  INFO 26445 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1303 ms
+2020-05-22 10:48:58.632  INFO 26445 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:48:58.746  INFO 26445 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:48:58.858  INFO 26445 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:48:58.867  INFO 26445 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.32 seconds (JVM running for 4.055)
+2020-05-22 10:49:19.897  INFO 26445 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:49:19.897  INFO 26445 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:49:19.903  INFO 26445 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-05-22 10:56:16.782  INFO 26445 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:56:26.966  INFO 26462 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26462 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 10:56:26.968  INFO 26462 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 10:56:28.159  INFO 26462 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 10:56:28.173  INFO 26462 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 10:56:28.173  INFO 26462 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 10:56:28.336  INFO 26462 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 10:56:28.337  INFO 26462 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1330 ms
+2020-05-22 10:56:28.585  INFO 26462 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 10:56:28.650  INFO 26462 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 10:56:28.816  INFO 26462 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 10:56:28.828  INFO 26462 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.364 seconds (JVM running for 5.478)
+2020-05-22 10:56:58.742  INFO 26462 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 10:56:58.742  INFO 26462 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 10:56:58.750  INFO 26462 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2020-05-22 11:00:27.846  INFO 26462 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:00:34.436  INFO 26494 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26494 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:00:34.438  INFO 26494 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:00:35.542  INFO 26494 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:00:35.553  INFO 26494 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:00:35.553  INFO 26494 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:00:35.813  INFO 26494 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:00:35.814  INFO 26494 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1317 ms
+2020-05-22 11:00:36.001  INFO 26494 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:00:36.067  INFO 26494 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:00:36.195  INFO 26494 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:00:36.205  INFO 26494 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.182 seconds (JVM running for 3.807)
+2020-05-22 11:01:00.568  INFO 26494 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:01:00.568  INFO 26494 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:01:00.575  INFO 26494 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-05-22 11:05:03.195  INFO 26494 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:05:08.445  INFO 26507 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26507 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:05:08.449  INFO 26507 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:05:09.709  INFO 26507 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:05:09.717  INFO 26507 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:05:09.718  INFO 26507 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:05:09.936  INFO 26507 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:05:09.936  INFO 26507 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1436 ms
+2020-05-22 11:05:10.098  INFO 26507 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:05:10.161  INFO 26507 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:05:10.276  INFO 26507 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:05:10.286  INFO 26507 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.295 seconds (JVM running for 4.038)
+2020-05-22 11:05:30.309  INFO 26507 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:05:30.310  INFO 26507 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:05:30.317  INFO 26507 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-05-22 11:08:10.107  INFO 26507 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:08:18.789  INFO 26513 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26513 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:08:18.792  INFO 26513 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:08:19.910  INFO 26513 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:08:19.921  INFO 26513 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:08:19.922  INFO 26513 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:08:20.100  INFO 26513 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:08:20.101  INFO 26513 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1244 ms
+2020-05-22 11:08:20.341  INFO 26513 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:08:20.428  INFO 26513 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:08:20.591  INFO 26513 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:08:20.617  INFO 26513 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.448 seconds (JVM running for 4.126)
+2020-05-22 11:08:36.158  INFO 26513 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:08:36.158  INFO 26513 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:08:36.166  INFO 26513 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
+2020-05-22 11:08:57.672  INFO 26513 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:09:01.387  INFO 26516 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26516 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:09:01.390  INFO 26516 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:09:02.614  INFO 26516 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:09:02.627  INFO 26516 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:09:02.627  INFO 26516 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:09:02.747  INFO 26516 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:09:02.754  INFO 26516 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1330 ms
+2020-05-22 11:09:02.985  INFO 26516 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:09:03.063  INFO 26516 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:09:03.186  INFO 26516 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:09:03.197  INFO 26516 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.278 seconds (JVM running for 3.217)
+2020-05-22 11:09:04.256  INFO 26516 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:09:07.777  INFO 26519 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26519 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:09:07.781  INFO 26519 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:09:08.793  INFO 26519 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:09:08.799  INFO 26519 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:09:08.800  INFO 26519 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:09:08.847  INFO 26519 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:09:08.848  INFO 26519 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1021 ms
+2020-05-22 11:09:08.981  INFO 26519 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:09:09.050  INFO 26519 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:09:09.147  INFO 26519 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:09:09.156  INFO 26519 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.695 seconds (JVM running for 2.455)
+2020-05-22 11:09:10.664  INFO 26519 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:09:10.664  INFO 26519 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:09:10.668  INFO 26519 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 11:09:55.098  INFO 26519 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:10:00.178  INFO 26532 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26532 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:10:00.180  INFO 26532 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:10:01.050  INFO 26532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:10:01.058  INFO 26532 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:10:01.058  INFO 26532 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:10:01.265  INFO 26532 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:10:01.265  INFO 26532 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1055 ms
+2020-05-22 11:10:01.402  INFO 26532 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:10:01.476  INFO 26532 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:10:01.576  INFO 26532 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:10:01.584  INFO 26532 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.732 seconds (JVM running for 2.694)
+2020-05-22 11:10:05.309  INFO 26532 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:10:05.309  INFO 26532 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:10:05.317  INFO 26532 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-05-22 11:10:34.797  INFO 26532 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:10:39.167  INFO 26537 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26537 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:10:39.169  INFO 26537 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:10:40.018  INFO 26537 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:10:40.024  INFO 26537 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:10:40.025  INFO 26537 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:10:40.182  INFO 26537 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:10:40.182  INFO 26537 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 978 ms
+2020-05-22 11:10:40.309  INFO 26537 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:10:40.375  INFO 26537 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:10:40.500  INFO 26537 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:10:40.509  INFO 26537 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.667 seconds (JVM running for 2.697)
+2020-05-22 11:10:48.513  INFO 26537 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:10:48.513  INFO 26537 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:10:48.517  INFO 26537 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 11:12:01.532  INFO 26537 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:12:10.181  INFO 26546 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26546 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:12:10.183  INFO 26546 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:12:11.142  INFO 26546 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:12:11.152  INFO 26546 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:12:11.153  INFO 26546 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:12:11.226  INFO 26546 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:12:11.227  INFO 26546 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1011 ms
+2020-05-22 11:12:11.407  INFO 26546 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:12:11.479  INFO 26546 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:12:11.664  INFO 26546 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:12:11.684  INFO 26546 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.831 seconds (JVM running for 3.685)
+2020-05-22 11:12:19.666  INFO 26546 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:12:25.340  INFO 26550 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26550 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:12:25.350  INFO 26550 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:12:26.616  INFO 26550 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:12:26.624  INFO 26550 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:12:26.624  INFO 26550 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:12:26.691  INFO 26550 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:12:26.692  INFO 26550 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1293 ms
+2020-05-22 11:12:26.813  INFO 26550 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:12:26.926  INFO 26550 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:12:27.038  INFO 26550 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:12:27.047  INFO 26550 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.056 seconds (JVM running for 2.644)
+2020-05-22 11:12:30.274  INFO 26550 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:12:30.275  INFO 26550 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:12:30.278  INFO 26550 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 11:12:41.473  INFO 26550 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:12:46.322  INFO 26553 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26553 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:12:46.324  INFO 26553 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:12:47.171  INFO 26553 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:12:47.177  INFO 26553 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:12:47.178  INFO 26553 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:12:47.238  INFO 26553 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:12:47.238  INFO 26553 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 872 ms
+2020-05-22 11:12:47.361  INFO 26553 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:12:47.415  INFO 26553 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:12:47.524  INFO 26553 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:12:47.533  INFO 26553 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.56 seconds (JVM running for 2.466)
+2020-05-22 11:12:49.373  INFO 26553 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:12:49.373  INFO 26553 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:12:49.377  INFO 26553 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 11:13:13.009  INFO 26553 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:13:17.326  INFO 26560 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26560 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:13:17.329  INFO 26560 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:13:18.206  INFO 26560 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:13:18.217  INFO 26560 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:13:18.219  INFO 26560 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:13:18.362  INFO 26560 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:13:18.363  INFO 26560 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1001 ms
+2020-05-22 11:13:18.554  INFO 26560 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:13:18.612  INFO 26560 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:13:18.706  INFO 26560 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:13:18.713  INFO 26560 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.684 seconds (JVM running for 2.236)
+2020-05-22 11:13:20.742  INFO 26560 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:13:20.742  INFO 26560 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:13:20.747  INFO 26560 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 11:13:26.267  INFO 26560 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:13:29.152  INFO 26566 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26566 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:13:29.155  INFO 26566 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:13:30.132  INFO 26566 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:13:30.138  INFO 26566 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:13:30.138  INFO 26566 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:13:30.187  INFO 26566 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:13:30.187  INFO 26566 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 984 ms
+2020-05-22 11:13:30.301  INFO 26566 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:13:30.372  INFO 26566 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:13:30.478  INFO 26566 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:13:30.486  INFO 26566 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.724 seconds (JVM running for 2.322)
+2020-05-22 11:13:36.092  INFO 26566 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:13:36.092  INFO 26566 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:13:36.096  INFO 26566 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 11:13:46.124  INFO 26566 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:13:50.653  INFO 26572 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26572 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:13:50.655  INFO 26572 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:13:51.492  INFO 26572 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:13:51.503  INFO 26572 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:13:51.503  INFO 26572 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:13:51.607  INFO 26572 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:13:51.608  INFO 26572 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 925 ms
+2020-05-22 11:13:51.858  INFO 26572 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:13:51.951  INFO 26572 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:13:52.062  INFO 26572 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:13:52.079  INFO 26572 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.758 seconds (JVM running for 2.359)
+2020-05-22 11:13:54.763  INFO 26572 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:13:54.763  INFO 26572 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:13:54.766  INFO 26572 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 11:14:17.186  INFO 26572 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:14:21.366  INFO 26577 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26577 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:14:21.371  INFO 26577 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:14:22.529  INFO 26577 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:14:22.536  INFO 26577 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:14:22.537  INFO 26577 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:14:22.609  INFO 26577 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:14:22.609  INFO 26577 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1192 ms
+2020-05-22 11:14:22.746  INFO 26577 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:14:22.804  INFO 26577 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:14:22.910  INFO 26577 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:14:22.918  INFO 26577 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.996 seconds (JVM running for 2.605)
+2020-05-22 11:14:54.711  INFO 26577 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:14:54.712  INFO 26577 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:14:54.715  INFO 26577 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 11:14:58.449  WARN 26577 --- [http-nio-8080-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-05-22 11:15:19.788  INFO 26577 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:15:26.172  INFO 26584 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26584 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 11:15:26.177  INFO 26584 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 11:15:27.255  INFO 26584 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 11:15:27.266  INFO 26584 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 11:15:27.266  INFO 26584 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 11:15:27.392  INFO 26584 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 11:15:27.392  INFO 26584 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1178 ms
+2020-05-22 11:15:27.547  INFO 26584 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 11:15:27.611  INFO 26584 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 11:15:27.723  INFO 26584 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 11:15:27.732  INFO 26584 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.98 seconds (JVM running for 2.934)
+2020-05-22 11:15:28.993  INFO 26584 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 11:15:28.993  INFO 26584 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 11:15:28.997  INFO 26584 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 13:42:24.530  INFO 26584 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:42:38.200  INFO 26756 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26756 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 13:42:38.211  INFO 26756 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 13:42:39.598  INFO 26756 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 13:42:39.604  INFO 26756 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 13:42:39.605  INFO 26756 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 13:42:39.700  INFO 26756 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 13:42:39.701  INFO 26756 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1460 ms
+2020-05-22 13:42:39.870  INFO 26756 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:42:39.964  INFO 26756 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 13:42:40.107  INFO 26756 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 13:42:40.116  INFO 26756 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.356 seconds (JVM running for 3.128)
+2020-05-22 13:42:41.410  INFO 26756 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:42:44.069  INFO 26760 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26760 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 13:42:44.074  INFO 26760 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 13:42:45.046  INFO 26760 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 13:42:45.053  INFO 26760 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 13:42:45.053  INFO 26760 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 13:42:45.103  INFO 26760 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 13:42:45.103  INFO 26760 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 984 ms
+2020-05-22 13:42:45.236  INFO 26760 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:42:45.309  INFO 26760 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 13:42:45.424  INFO 26760 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 13:42:45.432  INFO 26760 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.658 seconds (JVM running for 2.254)
+2020-05-22 13:43:44.182  INFO 26760 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 13:43:44.202  INFO 26760 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 13:43:44.206  INFO 26760 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 13:44:13.508  INFO 26760 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:44:19.091  INFO 26772 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26772 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 13:44:19.093  INFO 26772 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 13:44:19.894  INFO 26772 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 13:44:19.903  INFO 26772 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 13:44:19.904  INFO 26772 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 13:44:20.104  INFO 26772 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 13:44:20.105  INFO 26772 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 983 ms
+2020-05-22 13:44:20.243  INFO 26772 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:44:20.313  INFO 26772 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 13:44:20.445  INFO 26772 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 13:44:20.452  INFO 26772 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.644 seconds (JVM running for 2.82)
+2020-05-22 13:44:38.853  INFO 26772 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 13:44:38.853  INFO 26772 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 13:44:38.859  INFO 26772 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-05-22 13:46:41.045  INFO 26772 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:46:43.431  INFO 26777 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26777 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 13:46:43.433  INFO 26777 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 13:46:44.283  INFO 26777 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 13:46:44.291  INFO 26777 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 13:46:44.291  INFO 26777 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 13:46:44.355  INFO 26777 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 13:46:44.355  INFO 26777 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 892 ms
+2020-05-22 13:46:44.488  INFO 26777 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:46:44.543  INFO 26777 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 13:46:44.645  INFO 26777 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 13:46:44.653  INFO 26777 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.49 seconds (JVM running for 2.003)
+2020-05-22 13:47:10.182  INFO 26777 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 13:47:10.182  INFO 26777 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 13:47:10.189  INFO 26777 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 7 ms
+2020-05-22 13:49:05.657  INFO 26777 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:49:09.759  INFO 26785 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26785 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 13:49:09.762  INFO 26785 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 13:49:10.654  INFO 26785 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 13:49:10.660  INFO 26785 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 13:49:10.661  INFO 26785 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 13:49:10.709  INFO 26785 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 13:49:10.709  INFO 26785 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 914 ms
+2020-05-22 13:49:10.822  INFO 26785 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:49:10.874  INFO 26785 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 13:49:10.985  INFO 26785 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 13:49:10.994  INFO 26785 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.511 seconds (JVM running for 1.986)
+2020-05-22 13:49:30.553  INFO 26785 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 13:49:30.553  INFO 26785 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 13:49:30.560  INFO 26785 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-05-22 13:51:42.436  INFO 26785 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:51:45.532  INFO 26793 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26793 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 13:51:45.534  INFO 26793 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 13:51:46.359  INFO 26793 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 13:51:46.369  INFO 26793 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 13:51:46.369  INFO 26793 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 13:51:46.430  INFO 26793 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 13:51:46.430  INFO 26793 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 867 ms
+2020-05-22 13:51:46.612  INFO 26793 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:51:46.687  INFO 26793 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 13:51:46.808  INFO 26793 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 13:51:46.817  INFO 26793 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.589 seconds (JVM running for 2.176)
+2020-05-22 13:52:10.320  INFO 26793 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 13:52:10.320  INFO 26793 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 13:52:10.324  INFO 26793 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 13:52:23.347  INFO 26793 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:52:26.162  INFO 26800 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26800 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 13:52:26.165  INFO 26800 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 13:52:27.041  INFO 26800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 13:52:27.047  INFO 26800 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 13:52:27.047  INFO 26800 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 13:52:27.101  INFO 26800 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 13:52:27.101  INFO 26800 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 902 ms
+2020-05-22 13:52:27.222  INFO 26800 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:52:27.287  INFO 26800 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 13:52:27.411  INFO 26800 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 13:52:27.420  INFO 26800 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.629 seconds (JVM running for 2.129)
+2020-05-22 13:52:47.695  INFO 26800 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 13:52:47.695  INFO 26800 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 13:52:47.699  INFO 26800 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 13:55:17.520  INFO 26800 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:55:23.120  INFO 26805 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26805 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 13:55:23.125  INFO 26805 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 13:55:24.466  INFO 26805 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 13:55:24.479  INFO 26805 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 13:55:24.479  INFO 26805 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 13:55:24.799  INFO 26805 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 13:55:24.799  INFO 26805 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1618 ms
+2020-05-22 13:55:24.948  INFO 26805 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:55:24.998  INFO 26805 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 13:55:25.137  INFO 26805 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 13:55:25.146  INFO 26805 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 2.533 seconds (JVM running for 3.663)
+2020-05-22 13:56:22.565  INFO 26805 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 13:56:22.565  INFO 26805 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 13:56:22.572  INFO 26805 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-05-22 13:58:16.345  INFO 26805 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:58:19.499  INFO 26815 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26815 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 13:58:19.502  INFO 26815 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 13:58:20.426  INFO 26815 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 13:58:20.436  INFO 26815 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 13:58:20.437  INFO 26815 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 13:58:20.489  INFO 26815 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 13:58:20.489  INFO 26815 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 944 ms
+2020-05-22 13:58:20.619  INFO 26815 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:58:20.689  INFO 26815 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 13:58:20.804  INFO 26815 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 13:58:20.814  INFO 26815 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.738 seconds (JVM running for 2.463)
+2020-05-22 13:58:24.870  INFO 26815 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 13:58:24.870  INFO 26815 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 13:58:24.875  INFO 26815 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2020-05-22 13:59:06.063  INFO 26815 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:59:09.620  INFO 26820 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26820 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 13:59:09.622  INFO 26820 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 13:59:10.641  INFO 26820 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 13:59:10.648  INFO 26820 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 13:59:10.648  INFO 26820 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 13:59:10.699  INFO 26820 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 13:59:10.699  INFO 26820 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1032 ms
+2020-05-22 13:59:10.823  INFO 26820 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 13:59:10.884  INFO 26820 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 13:59:10.993  INFO 26820 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 13:59:11.000  INFO 26820 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.72 seconds (JVM running for 2.261)
+2020-05-22 14:00:07.935  INFO 26820 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 14:00:07.936  INFO 26820 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 14:00:07.939  INFO 26820 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 14:01:20.785  INFO 26820 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:01:23.928  INFO 26825 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26825 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:01:23.935  INFO 26825 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 14:01:25.130  INFO 26825 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 14:01:25.137  INFO 26825 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 14:01:25.138  INFO 26825 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 14:01:25.215  INFO 26825 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 14:01:25.215  INFO 26825 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1231 ms
+2020-05-22 14:01:25.386  INFO 26825 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:01:25.444  INFO 26825 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:01:25.551  INFO 26825 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 14:01:25.561  INFO 26825 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.973 seconds (JVM running for 2.641)
+2020-05-22 14:01:47.148  INFO 26825 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:01:50.411  INFO 26828 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26828 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:01:50.414  INFO 26828 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 14:01:51.451  INFO 26828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 14:01:51.458  INFO 26828 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 14:01:51.459  INFO 26828 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 14:01:51.515  INFO 26828 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 14:01:51.516  INFO 26828 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1057 ms
+2020-05-22 14:01:51.670  INFO 26828 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:01:51.740  INFO 26828 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:01:51.847  INFO 26828 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 14:01:51.855  INFO 26828 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.745 seconds (JVM running for 2.68)
+2020-05-22 14:01:52.075  INFO 26828 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:01:55.026  INFO 26831 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26831 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:01:55.029  INFO 26831 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 14:01:55.939  INFO 26831 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 14:01:55.946  INFO 26831 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 14:01:55.946  INFO 26831 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 14:01:55.994  INFO 26831 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 14:01:55.994  INFO 26831 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 903 ms
+2020-05-22 14:01:56.113  INFO 26831 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:01:56.178  INFO 26831 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:01:56.290  INFO 26831 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 14:01:56.298  INFO 26831 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.883 seconds (JVM running for 2.606)
+2020-05-22 14:02:18.398  INFO 26831 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 14:02:18.398  INFO 26831 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 14:02:18.402  INFO 26831 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2020-05-22 14:03:50.890  INFO 26831 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:03:59.137  INFO 26842 --- [main] c.e.g.GongzhonghaoApplication            : Starting GongzhonghaoApplication on CundeiMac.local with PID 26842 (/Users/cunethan/Desktop/Java/gongzhonghao/target/classes started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:03:59.139  INFO 26842 --- [main] c.e.g.GongzhonghaoApplication            : No active profile set, falling back to default profiles: default
+2020-05-22 14:04:00.111  INFO 26842 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-05-22 14:04:00.118  INFO 26842 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-05-22 14:04:00.118  INFO 26842 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-22 14:04:00.222  INFO 26842 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-05-22 14:04:00.222  INFO 26842 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1055 ms
+2020-05-22 14:04:00.368  INFO 26842 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:04:00.432  INFO 26842 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:04:00.532  INFO 26842 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-22 14:04:00.540  INFO 26842 --- [main] c.e.g.GongzhonghaoApplication            : Started GongzhonghaoApplication in 1.738 seconds (JVM running for 2.361)
+2020-05-22 14:04:24.807  INFO 26842 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-22 14:04:24.807  INFO 26842 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-05-22 14:04:24.813  INFO 26842 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2020-05-22 14:05:30.976  INFO 26859 --- [main] c.e.g.GongzhonghaoApplicationTests       : Starting GongzhonghaoApplicationTests on CundeiMac.local with PID 26859 (started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:05:30.977  INFO 26859 --- [main] c.e.g.GongzhonghaoApplicationTests       : No active profile set, falling back to default profiles: default
+2020-05-22 14:05:32.324  INFO 26859 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:05:32.471  INFO 26859 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:05:32.724  INFO 26859 --- [main] c.e.g.GongzhonghaoApplicationTests       : Started GongzhonghaoApplicationTests in 2.149 seconds (JVM running for 4.028)
+2020-05-22 14:05:33.320  INFO 26859 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:07:31.628  INFO 26842 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:10:41.333  INFO 26912 --- [main] c.e.g.GongzhonghaoApplicationTests       : Starting GongzhonghaoApplicationTests on CundeiMac.local with PID 26912 (started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:10:41.334  INFO 26912 --- [main] c.e.g.GongzhonghaoApplicationTests       : No active profile set, falling back to default profiles: default
+2020-05-22 14:10:42.524  INFO 26912 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:10:42.623  INFO 26912 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:10:42.894  INFO 26912 --- [main] c.e.g.GongzhonghaoApplicationTests       : Started GongzhonghaoApplicationTests in 1.928 seconds (JVM running for 2.891)
+2020-05-22 14:10:43.228  INFO 26912 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:13:50.815  INFO 26956 --- [main] c.e.g.GongzhonghaoApplicationTests       : Starting GongzhonghaoApplicationTests on CundeiMac.local with PID 26956 (started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:13:50.816  INFO 26956 --- [main] c.e.g.GongzhonghaoApplicationTests       : No active profile set, falling back to default profiles: default
+2020-05-22 14:13:51.811  INFO 26956 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:13:51.914  INFO 26956 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:13:52.134  INFO 26956 --- [main] c.e.g.GongzhonghaoApplicationTests       : Started GongzhonghaoApplicationTests in 1.659 seconds (JVM running for 2.572)
+2020-05-22 14:13:52.384  INFO 26956 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:14:50.392  INFO 26987 --- [main] c.e.g.GongzhonghaoApplicationTests       : Starting GongzhonghaoApplicationTests on CundeiMac.local with PID 26987 (started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:14:50.400  INFO 26987 --- [main] c.e.g.GongzhonghaoApplicationTests       : No active profile set, falling back to default profiles: default
+2020-05-22 14:14:51.541  INFO 26987 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:14:51.645  INFO 26987 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:14:51.851  INFO 26987 --- [main] c.e.g.GongzhonghaoApplicationTests       : Started GongzhonghaoApplicationTests in 1.792 seconds (JVM running for 2.891)
+2020-05-22 14:14:52.071  INFO 26987 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:15:05.929  INFO 27021 --- [main] c.e.g.GongzhonghaoApplicationTests       : Starting GongzhonghaoApplicationTests on CundeiMac.local with PID 27021 (started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:15:05.931  INFO 27021 --- [main] c.e.g.GongzhonghaoApplicationTests       : No active profile set, falling back to default profiles: default
+2020-05-22 14:15:06.981  INFO 27021 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:15:07.087  INFO 27021 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:15:07.303  INFO 27021 --- [main] c.e.g.GongzhonghaoApplicationTests       : Started GongzhonghaoApplicationTests in 1.715 seconds (JVM running for 2.62)
+2020-05-22 14:15:07.534  INFO 27021 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:23:43.237  INFO 27080 --- [main] c.e.g.GongzhonghaoApplicationTests       : Starting GongzhonghaoApplicationTests on CundeiMac.local with PID 27080 (started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:23:43.240  INFO 27080 --- [main] c.e.g.GongzhonghaoApplicationTests       : No active profile set, falling back to default profiles: default
+2020-05-22 14:23:44.340  INFO 27080 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:23:44.439  INFO 27080 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:23:44.659  INFO 27080 --- [main] c.e.g.GongzhonghaoApplicationTests       : Started GongzhonghaoApplicationTests in 1.729 seconds (JVM running for 2.62)
+2020-05-22 14:23:44.894  INFO 27080 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:28:54.851  INFO 27112 --- [main] c.e.g.GongzhonghaoApplicationTests       : Starting GongzhonghaoApplicationTests on CundeiMac.local with PID 27112 (started by cunethan in /Users/cunethan/Desktop/Java/gongzhonghao)
+2020-05-22 14:28:54.853  INFO 27112 --- [main] c.e.g.GongzhonghaoApplicationTests       : No active profile set, falling back to default profiles: default
+2020-05-22 14:28:55.969  INFO 27112 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-22 14:28:56.071  INFO 27112 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-05-22 14:28:56.283  INFO 27112 --- [main] c.e.g.GongzhonghaoApplicationTests       : Started GongzhonghaoApplicationTests in 1.741 seconds (JVM running for 2.762)
+2020-05-22 14:28:56.691  INFO 27112 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
